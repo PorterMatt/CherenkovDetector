@@ -1,0 +1,6 @@
+;;Solidworks line style file
+;;
+;; A length/space of '1.0' is equivalent to .2 inches.
+;;
+*PHANTOM,Phantom
+A,1.25,-0.25,0.25,-0.25,0.25,-0.25
